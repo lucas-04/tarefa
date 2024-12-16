@@ -1,2 +1,2 @@
-Script em Python
-projeto 1 do modulo de git 
+Este projeto contém um script em Python 
+
