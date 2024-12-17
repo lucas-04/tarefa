@@ -2,7 +2,7 @@
  script de calculadora simples em python
 # Calculadora Python
 
-Este projeto contém um script simples em Python que realiza operações matemáticas básicas: adição, subtração, multiplicação e divisão.
+O arquivo calculadora.py é um script simples de Python que solicita ao usuário que escolha uma operação matemática (adição, subtração, multiplicação, divisão), insira dois números e exibe o resultado. O script também lida com entradas inválidas e erros, como a divisão por zero
 
 ## Como executar o script
 
